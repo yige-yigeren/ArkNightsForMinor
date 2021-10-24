@@ -1,18 +1,10 @@
 # ArkN青春版
 
-Forked from MengLuwa/ArkNightsForMinor (原作者已注销Github)
-
-尝试继续继承这个项目
-
-关于如何提取舟游加密后的libil2cpp.so：参考[BV1Ui4y1V7Pi](https://www.bilibili.com/video/BV1Ui4y1V7Pi)
-
-关于如何使用hook：参考[此文](https://www.52pojie.cn/thread-1007314-1-1.html)
-
-
+这就当个备份吧(
 
 ## 如何延续这个项目
 
-~~如果我死了的话~~
+awsl
 
 需要以下工具
 
